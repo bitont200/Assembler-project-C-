@@ -1,4 +1,5 @@
 /*@by Shira Kedmi*/
+
 #include "command_parsing.h"
 
 struct line_division string_division(char *input) {
