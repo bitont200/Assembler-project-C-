@@ -1,3 +1,5 @@
+/*@by Shira Kedmi*/
+
 #ifndef GLOBAL_CONST_H
 #define GLOBAL_CONST_H
 
