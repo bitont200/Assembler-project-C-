@@ -1,3 +1,5 @@
+/*@by Tamar Biton*/
+
 #include "tables.h"
 
 /* Function to make new symbol */
