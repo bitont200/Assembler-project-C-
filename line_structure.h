@@ -1,3 +1,5 @@
+/*@by Tamar Biton*/
+
 #ifndef LINE_STRUCTURE_H
 #define LINE_STRUCTURE_H
 
