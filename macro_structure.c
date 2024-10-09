@@ -1,3 +1,5 @@
+/*@by Shira Kedmi*/
+
 #include "macro_structure.h"
 
 void add_line_to_macro(Macro *macro, char *line_to_add) {
