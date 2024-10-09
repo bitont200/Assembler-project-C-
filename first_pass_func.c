@@ -1,3 +1,5 @@
+/*@by Tamar Biton*/
+
 #include "first_pass_func.h"
 
 /*Checks if line has any errors*/
