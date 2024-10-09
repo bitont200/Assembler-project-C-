@@ -1,3 +1,5 @@
+/*@by Shira Kedmi*/
+
 #include "preprocessor.h"
 
 int identify_line_type(char *line_parsing, Macro **macro_pointer, Macro **macro_table, int line_number) {
