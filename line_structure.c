@@ -1,3 +1,5 @@
+/*@by Shira Kedmi*/
+
 #include "line_structure.h"
 
 struct lineStc get_line_structure_from_line(char* string_line, Macro *mac) {
