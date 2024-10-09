@@ -1,3 +1,5 @@
+/*@by Shira Kedmi*/
+
 #ifndef MACRO_STRUCTURE_H
 #define MACRO_STRUCTURE_H
 
