@@ -1,20 +1,20 @@
-# Assembler-project-C-
+# 💻 Assembler-project-C-
 Final project for the System Programming course, involving the development of an assembler that translates assembly code to machine language. Implemented in C on a Linux (Ubuntu) environment.
 
-**By Tamar Biton and Shira Kedmi**
+**👥 By Tamar Biton and Shira Kedmi**
 
-## Overview
+## 👀 Overview
 
 **Imaginary Programming Language Compiler**  
 The assembler generates a machine code file based on an input file containing an assembly-language program, which will be defined below.
 
-## Features
+## 🎯 Features
 
 - Converts assembly language into machine-readable machine code.
 - Handles various sentence types for comprehensive program structure.
 - Easy to use with a clear input/output system.
 
-## Usage
+## 📂 Usage
 
 The assembler reads assembly files and converts them to machine code, producing an output file that can be executed.
 
@@ -80,7 +80,7 @@ Directive sentences guide the assembler to define data or provide instructions o
 | .extern     | Indicates a label defined outside this file       | `.extern LABEL`             |
 
 
-## Example
+## 📊 Example
 An example of a code in the given language:
 
 ```assembly
